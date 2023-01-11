@@ -1,0 +1,437 @@
+{
+	"assets": [
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "dcc5a42"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "d940b4d"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "galaxy-background-gixaqtvgmxz0eli2.jpg",
+			"id": "45c94af.jpg"
+		},
+		{
+			"duration": 3553,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] so this is why i would have to say, goodbye for now",
+			"id": "24d9bd6.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Screenshot 2023-01-11 072929.jpg",
+			"ptype": "placeable",
+			"id": "59972cd.jpg"
+		},
+		{
+			"duration": 1384,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] and here is the proof",
+			"id": "c48cb35.mp3"
+		},
+		{
+			"duration": 11442,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] is not broken at all, i tried to troubleshooting it, but its repaired, after in a few minutes, the wifi will be no internet access, so can you guys help me how to fix this?",
+			"id": "561ee77.mp3"
+		},
+		{
+			"duration": 13767,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] well, you see? this wifi is not broken at all, and it says, no internet, secured while the wifi was connected, and the router is good and better at all, and the wifi on my laptop",
+			"id": "3acfe65.mp3"
+		},
+		{
+			"duration": 7706,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] hey guys, this is me here, and today, i’m going to talk about my wifi problem, so, here it goes",
+			"id": "d61bc2b.mp3"
+		},
+		{
+			"duration": 7811,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] hey guys, this is me here, and today, im going to talk about my wifi problem, so, here it goes",
+			"id": "c525d68.mp3"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "fantastic-universe-mz-space-stars-galaxies-ultra-hd-desktop-wallpaper-preview.jpg",
+			"id": "059b2a2.jpg"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "5db21cf"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "7245c42"
+		},
+		{
+			"duration": 3971,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] this is a test of using a goaniwaynenathaniel2600",
+			"id": "48da79b.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "faedce9"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "fantastic-universe-mz-space-stars-galaxies-ultra-hd-desktop-wallpaper-preview.jpg",
+			"id": "f332de6.jpg"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "79d358c"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "ad47735"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "9615b38"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "e5acd92"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "ce34f47"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Stefies_2023_OC.xml",
+			"themeId": "family",
+			"id": "f3c288b"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "a29e622"
+		},
+		{
+			"duration": 705,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Eric] test",
+			"id": "d31699f.mp3"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "gd084x5buvc6qrj8.jpg",
+			"id": "2550ae9.jpg"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "23385.jpg",
+			"id": "8859c93.jpg"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "2f5a6de"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "b1a1468"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "6cd9a23"
+		},
+		{
+			"type": "watermark",
+			"subtype": "0",
+			"title": "ldm-removebg-preview.png",
+			"id": "19849bb.png"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Footloose.mp3",
+			"duration": 225312,
+			"id": "0db6b32.mp3"
+		},
+		{
+			"duration": 575,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[Joey (PO)] n",
+			"id": "58502ba.mp3"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "Wall.jpg",
+			"id": "65e5954.jpg"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Electric City 2022 Piano.mp3",
+			"duration": 186096,
+			"id": "0f4be4c.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "AzureYellowGalaxyDeluxLightGuy Youth Bizarre.mp3",
+			"duration": 107616,
+			"id": "b980fc3.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "LOGIN.jpg",
+			"ptype": "placeable",
+			"id": "7f5ef9c.jpg"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "JPB The Filipino Vyonder YT 2K10",
+			"themeId": "family",
+			"id": "c0f996e",
+			"share": {
+				"type": "none"
+			},
+			"assetId": "c0f996e",
+			"tags": "",
+			"published": "0"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "Wayne Nathaniel 2600.jpg",
+			"id": "dbef474.jpg"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "Clouds.png",
+			"id": "a8af19f.png"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "Windows Server 2003",
+			"id": "d9ee66e.png"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "prototypebg.png",
+			"id": "8b662a0.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Jamaica.jpg",
+			"ptype": "placeable",
+			"id": "250c7b6.jpg"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Computer Shutdown",
+			"duration": 3265,
+			"id": "ab50a3a.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Computer startup",
+			"duration": 4885,
+			"id": "3f261d3.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Computer beep",
+			"duration": 627,
+			"id": "424b4f2.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Tada",
+			"duration": 2011.0000000000002,
+			"id": "e0d0b67.mp3"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Office Phone.wav",
+			"duration": 940,
+			"id": "3010415.mp3"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Angel Marquez",
+			"themeId": "family",
+			"id": "759c69d",
+			"share": {
+				"type": "none"
+			},
+			"assetId": "759c69d",
+			"tags": "",
+			"published": "0"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Dylan Anderson",
+			"themeId": "family",
+			"id": "f965529",
+			"share": {
+				"type": "none"
+			},
+			"assetId": "f965529",
+			"tags": "",
+			"published": "0"
+		},
+		{
+			"type": "sound",
+			"subtype": "soundeffect",
+			"title": "Phone Ringing.mp3",
+			"duration": 38256,
+			"id": "619c6b8.mp3"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Philippines.jpg",
+			"ptype": "placeable",
+			"id": "d174386.jpg"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "Bliss.jpg",
+			"id": "72ae78a.jpg"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Cody Anderson ",
+			"themeId": "family",
+			"id": "907cbca",
+			"share": {
+				"type": "none"
+			},
+			"assetId": "907cbca",
+			"tags": "",
+			"published": "0"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "wayne_nathaniel_2005_flag.jpg",
+			"id": "7787d6b.jpg"
+		},
+		{
+			"type": "sound",
+			"subtype": "bgmusic",
+			"title": "Wayne Nathaniel The Filipino Vyonder 2005 is the best Wayne Nathaniel a.k.a Wayne Nathaniel The Yellow Guy 2600.mp3",
+			"duration": 185208,
+			"id": "fdb7386.mp3",
+			"assetId": "fdb7386.mp3",
+			"tags": "Wayne Nathaniel",
+			"share": {
+				"type": "none"
+			},
+			"published": "0"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Wayne Nathaniel The Filipino Vyonder 2005/Wayne Nathaniel The Yellow Guy 2600",
+			"themeId": "family",
+			"id": "49e24fb",
+			"share": {
+				"type": "none"
+			},
+			"assetId": "49e24fb",
+			"tags": "GoAnimators",
+			"published": "0"
+		}
+	],
+	"movies": [
+		{
+			"id": "c0611f7",
+			"duration": "00:41",
+			"date": "2023-01-11T05:34:17.903Z",
+			"title": "the truth about my wifi connection",
+			"sceneCount": 5
+		},
+		{
+			"id": "ba14fe7",
+			"duration": "00:04",
+			"date": "2023-01-10T11:53:00.789Z",
+			"title": "test",
+			"sceneCount": 1
+		}
+	],
+	"folders": [],
+	"watermarks": []
+}
